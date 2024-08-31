@@ -8,7 +8,7 @@ I'm a Software Engineer with a passion for developing innovative solutions and w
 - 📫 How to reach me: **[Email](mailto:rishabh201224@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/rishabh-jain20122/)**
 - ⚡ Fun fact: I'm fascinated by the intersection of data and technology!
 
-[![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/rishabhjain1712)
+[![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabhjain1712&show_icons=true&theme=radical)](https://github.com/rishabhjain1712)
 
 
 ### 🛠️ Skills & Tools
