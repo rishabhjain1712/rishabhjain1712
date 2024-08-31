@@ -12,7 +12,7 @@ I'm a Software Engineer with a passion for developing innovative solutions and w
 
 
 ### 🛠️ Skills & Tools
-**Programming Languages & Frameworks**
+**Programming Languages & Frameworks**  
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -24,14 +24,14 @@ I'm a Software Engineer with a passion for developing innovative solutions and w
 ![Django](https://img.shields.io/badge/-Django-092D1F?logo=django&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 
-**Databases**
+**Databases**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/-Postgres-336791?logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 
-**Tools**
+**Tools**  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCF0?logo=apachehadoop&logoColor=white)
