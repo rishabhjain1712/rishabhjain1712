@@ -5,10 +5,10 @@ I'm a Software Engineer with a passion for developing innovative solutions and w
 - 🔭 Currently working on: **[Peer-to-Peer Lending Platform](#)** (A unique Java-based payment project)
 - 🌱 Currently learning: **Data Structures & Algorithms**, **Backend Development**
 - 👯 Looking to collaborate on: **Open Source Projects**
-- 📫 How to reach me: **[Email](mailto:your.email@example.com)** | **[LinkedIn](https://www.linkedin.com/in/your-linkedin/)**
+- 📫 How to reach me: **[Email](mailto:rishabh201224@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/rishabh-jain20122/)**
 - ⚡ Fun fact: I'm fascinated by the intersection of data and technology!
 
-[![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
+[![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/rishabhjain1712)
 
 
 ### 🛠️ Skills & Tools
