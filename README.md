@@ -5,7 +5,7 @@ I'm a Software Engineer with a passion for developing innovative solutions and w
 - 🔭 Currently working on: **[Peer-to-Peer Lending Platform](#)** (A unique Java-based payment project)
 - 🌱 Currently learning: **Data Structures & Algorithms**, **Backend Development**
 - 👯 Looking to collaborate on: **Open Source Projects**
-- 📫 How to reach me: **[Email](mailto:rishabh201224@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/rishabh-jain20122/)**
+- 📫 How to reach me: **[Email](mailto:rishabh201224@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/rishabh-jain20122/)** | **[Portfolio](https://rishabhjain1712.github.io/Portfolio/)**
 - ⚡ Fun fact: I'm fascinated by the intersection of data and technology!
 
 [![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabhjain1712&show_icons=true&theme=radical)](https://github.com/rishabhjain1712)
